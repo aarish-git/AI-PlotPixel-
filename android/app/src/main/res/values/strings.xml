@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PlotPixel</string>
+    <string name="title_activity_main">PlotPixel</string>
+    <string name="package_name">com.plotpixel.editor</string>
+    <string name="custom_url_scheme">com.plotpixel.editor</string>
+</resources>

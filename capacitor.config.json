@@ -1,0 +1,11 @@
+{
+  "appId": "app.PlotPixel.com",
+  "appName": "PlotPixel",
+  "webDir": "dist",
+  "plugins": {
+    "FirebaseAuthentication": {
+      "skipNativeAuth": false,
+      "providers": ["google.com"]
+    }
+  }
+}
